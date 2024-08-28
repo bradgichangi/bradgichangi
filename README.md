@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bradley Gichangi (@bradgichangi)
-- 👀 I’m a BSc Computer Science Graduate (First Class Honours)
-- 🌱 I’m currently teaching myself how to code in React by reprogramming a previous project (web-app) which I had previously created using Flutter.
+- 👀 I’m a Software Engineer for UCL
+- 🌱 I’m primarily work with AWS using python and terraform.
 - 📫 How to reach me : bradgichangi@gmail.com
 
 <!---
