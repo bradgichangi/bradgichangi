@@ -3,6 +3,8 @@
 - 🌱 I primarily work with AWS using python and terraform.
 - 📫 How to reach me : bradgichangi@gmail.com
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bradgichangi)
+
 <!---
 bradgichangi/bradgichangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
